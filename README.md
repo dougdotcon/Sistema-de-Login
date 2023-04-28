@@ -3,8 +3,5 @@ Welcome to my first project in github :) Thats a login and registration system f
 
 <h1>(Sistema de Login)</h1>
 
-https://user-images.githubusercontent.com/126187123/235223770-979e79d1-9367-4e22-a566-c675deeee4a2.mp4
-
-
-
+https://user-images.githubusercontent.com/126187123/235229517-8fcbaf28-469a-4ee0-8a39-b8fbf65dfb7d.mp4
 
